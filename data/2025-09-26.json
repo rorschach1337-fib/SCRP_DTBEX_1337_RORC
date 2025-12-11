@@ -1,0 +1,148 @@
+{
+    "2025-09-26": [
+        {
+            "product": "PH 1",
+            "delivery_period": "00:00 - 01:00",
+            "price_bgn_mwh": "153.49",
+            "total_quantity_mw": "2663.8"
+        },
+        {
+            "product": "PH 2",
+            "delivery_period": "01:00 - 02:00",
+            "price_bgn_mwh": "147.08",
+            "total_quantity_mw": "2794.9"
+        },
+        {
+            "product": "PH 3",
+            "delivery_period": "02:00 - 03:00",
+            "price_bgn_mwh": "143.13",
+            "total_quantity_mw": "2913.7"
+        },
+        {
+            "product": "PH 4",
+            "delivery_period": "03:00 - 04:00",
+            "price_bgn_mwh": "143.28",
+            "total_quantity_mw": "2985.7"
+        },
+        {
+            "product": "PH 5",
+            "delivery_period": "04:00 - 05:00",
+            "price_bgn_mwh": "147.47",
+            "total_quantity_mw": "3109.6"
+        },
+        {
+            "product": "PH 6",
+            "delivery_period": "05:00 - 06:00",
+            "price_bgn_mwh": "161.77",
+            "total_quantity_mw": "2955.3"
+        },
+        {
+            "product": "PH 7",
+            "delivery_period": "06:00 - 07:00",
+            "price_bgn_mwh": "221.03",
+            "total_quantity_mw": "3328.6"
+        },
+        {
+            "product": "PH 8",
+            "delivery_period": "07:00 - 08:00",
+            "price_bgn_mwh": "237.95",
+            "total_quantity_mw": "3484.6"
+        },
+        {
+            "product": "PH 9",
+            "delivery_period": "08:00 - 09:00",
+            "price_bgn_mwh": "244.56",
+            "total_quantity_mw": "3438.1"
+        },
+        {
+            "product": "PH 10",
+            "delivery_period": "09:00 - 10:00",
+            "price_bgn_mwh": "226.92",
+            "total_quantity_mw": "3729.3"
+        },
+        {
+            "product": "PH 11",
+            "delivery_period": "10:00 - 11:00",
+            "price_bgn_mwh": "199.87",
+            "total_quantity_mw": "3732.6"
+        },
+        {
+            "product": "PH 12",
+            "delivery_period": "11:00 - 12:00",
+            "price_bgn_mwh": "193.06",
+            "total_quantity_mw": "3658.3"
+        },
+        {
+            "product": "PH 13",
+            "delivery_period": "12:00 - 13:00",
+            "price_bgn_mwh": "186.70",
+            "total_quantity_mw": "3805.8"
+        },
+        {
+            "product": "PH 14",
+            "delivery_period": "13:00 - 14:00",
+            "price_bgn_mwh": "174.01",
+            "total_quantity_mw": "3724.6"
+        },
+        {
+            "product": "PH 15",
+            "delivery_period": "14:00 - 15:00",
+            "price_bgn_mwh": "173.97",
+            "total_quantity_mw": "3694.3"
+        },
+        {
+            "product": "PH 16",
+            "delivery_period": "15:00 - 16:00",
+            "price_bgn_mwh": "183.75",
+            "total_quantity_mw": "3447.1"
+        },
+        {
+            "product": "PH 17",
+            "delivery_period": "16:00 - 17:00",
+            "price_bgn_mwh": "199.87",
+            "total_quantity_mw": "3386.3"
+        },
+        {
+            "product": "PH 18",
+            "delivery_period": "17:00 - 18:00",
+            "price_bgn_mwh": "219.78",
+            "total_quantity_mw": "3517.0"
+        },
+        {
+            "product": "PH 19",
+            "delivery_period": "18:00 - 19:00",
+            "price_bgn_mwh": "241.74",
+            "total_quantity_mw": "4208.2"
+        },
+        {
+            "product": "PH 20",
+            "delivery_period": "19:00 - 20:00",
+            "price_bgn_mwh": "259.03",
+            "total_quantity_mw": "4045.2"
+        },
+        {
+            "product": "PH 21",
+            "delivery_period": "20:00 - 21:00",
+            "price_bgn_mwh": "233.94",
+            "total_quantity_mw": "3654.7"
+        },
+        {
+            "product": "PH 22",
+            "delivery_period": "21:00 - 22:00",
+            "price_bgn_mwh": "207.73",
+            "total_quantity_mw": "3325.9"
+        },
+        {
+            "product": "PH 23",
+            "delivery_period": "22:00 - 23:00",
+            "price_bgn_mwh": "189.52",
+            "total_quantity_mw": "3095.8"
+        },
+        {
+            "product": "PH 24",
+            "delivery_period": "23:00 - 00:00",
+            "price_bgn_mwh": "175.83",
+            "total_quantity_mw": "3313.3"
+        }
+    ]
+}

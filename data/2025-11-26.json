@@ -1,0 +1,580 @@
+{
+    "2025-11-26": [
+        {
+            "product": "QH 1",
+            "delivery_period": "00:00 - 00:15",
+            "price_bgn_mwh": "165.91",
+            "total_quantity_mw": "3009.0"
+        },
+        {
+            "product": "QH 2",
+            "delivery_period": "00:15 - 00:30",
+            "price_bgn_mwh": "165.19",
+            "total_quantity_mw": "3001.6"
+        },
+        {
+            "product": "QH 3",
+            "delivery_period": "00:30 - 00:45",
+            "price_bgn_mwh": "166.73",
+            "total_quantity_mw": "3195.2"
+        },
+        {
+            "product": "QH 4",
+            "delivery_period": "00:45 - 01:00",
+            "price_bgn_mwh": "164.99",
+            "total_quantity_mw": "3193.4"
+        },
+        {
+            "product": "QH 5",
+            "delivery_period": "01:00 - 01:15",
+            "price_bgn_mwh": "159.28",
+            "total_quantity_mw": "3160.0"
+        },
+        {
+            "product": "QH 6",
+            "delivery_period": "01:15 - 01:30",
+            "price_bgn_mwh": "146.69",
+            "total_quantity_mw": "3155.9"
+        },
+        {
+            "product": "QH 7",
+            "delivery_period": "01:30 - 01:45",
+            "price_bgn_mwh": "73.34",
+            "total_quantity_mw": "3161.0"
+        },
+        {
+            "product": "QH 8",
+            "delivery_period": "01:45 - 02:00",
+            "price_bgn_mwh": "164.62",
+            "total_quantity_mw": "3327.8"
+        },
+        {
+            "product": "QH 9",
+            "delivery_period": "02:00 - 02:15",
+            "price_bgn_mwh": "159.89",
+            "total_quantity_mw": "3355.3"
+        },
+        {
+            "product": "QH 10",
+            "delivery_period": "02:15 - 02:30",
+            "price_bgn_mwh": "160.73",
+            "total_quantity_mw": "3359.9"
+        },
+        {
+            "product": "QH 11",
+            "delivery_period": "02:30 - 02:45",
+            "price_bgn_mwh": "173.81",
+            "total_quantity_mw": "3548.3"
+        },
+        {
+            "product": "QH 12",
+            "delivery_period": "02:45 - 03:00",
+            "price_bgn_mwh": "173.81",
+            "total_quantity_mw": "3585.3"
+        },
+        {
+            "product": "QH 13",
+            "delivery_period": "03:00 - 03:15",
+            "price_bgn_mwh": "176.75",
+            "total_quantity_mw": "3565.1"
+        },
+        {
+            "product": "QH 14",
+            "delivery_period": "03:15 - 03:30",
+            "price_bgn_mwh": "177.14",
+            "total_quantity_mw": "3652.6"
+        },
+        {
+            "product": "QH 15",
+            "delivery_period": "03:30 - 03:45",
+            "price_bgn_mwh": "179.64",
+            "total_quantity_mw": "3576.9"
+        },
+        {
+            "product": "QH 16",
+            "delivery_period": "03:45 - 04:00",
+            "price_bgn_mwh": "179.17",
+            "total_quantity_mw": "3584.3"
+        },
+        {
+            "product": "QH 17",
+            "delivery_period": "04:00 - 04:15",
+            "price_bgn_mwh": "173.81",
+            "total_quantity_mw": "3460.6"
+        },
+        {
+            "product": "QH 18",
+            "delivery_period": "04:15 - 04:30",
+            "price_bgn_mwh": "177.02",
+            "total_quantity_mw": "3465.7"
+        },
+        {
+            "product": "QH 19",
+            "delivery_period": "04:30 - 04:45",
+            "price_bgn_mwh": "180.11",
+            "total_quantity_mw": "3354.7"
+        },
+        {
+            "product": "QH 20",
+            "delivery_period": "04:45 - 05:00",
+            "price_bgn_mwh": "185.10",
+            "total_quantity_mw": "3326.4"
+        },
+        {
+            "product": "QH 21",
+            "delivery_period": "05:00 - 05:15",
+            "price_bgn_mwh": "169.49",
+            "total_quantity_mw": "3187.9"
+        },
+        {
+            "product": "QH 22",
+            "delivery_period": "05:15 - 05:30",
+            "price_bgn_mwh": "180.03",
+            "total_quantity_mw": "3168.3"
+        },
+        {
+            "product": "QH 23",
+            "delivery_period": "05:30 - 05:45",
+            "price_bgn_mwh": "200.82",
+            "total_quantity_mw": "3287.8"
+        },
+        {
+            "product": "QH 24",
+            "delivery_period": "05:45 - 06:00",
+            "price_bgn_mwh": "218.58",
+            "total_quantity_mw": "3217.5"
+        },
+        {
+            "product": "QH 25",
+            "delivery_period": "06:00 - 06:15",
+            "price_bgn_mwh": "191.32",
+            "total_quantity_mw": "3333.9"
+        },
+        {
+            "product": "QH 26",
+            "delivery_period": "06:15 - 06:30",
+            "price_bgn_mwh": "224.47",
+            "total_quantity_mw": "3285.0"
+        },
+        {
+            "product": "QH 27",
+            "delivery_period": "06:30 - 06:45",
+            "price_bgn_mwh": "250.74",
+            "total_quantity_mw": "3427.1"
+        },
+        {
+            "product": "QH 28",
+            "delivery_period": "06:45 - 07:00",
+            "price_bgn_mwh": "309.12",
+            "total_quantity_mw": "3440.8"
+        },
+        {
+            "product": "QH 29",
+            "delivery_period": "07:00 - 07:15",
+            "price_bgn_mwh": "282.15",
+            "total_quantity_mw": "3184.1"
+        },
+        {
+            "product": "QH 30",
+            "delivery_period": "07:15 - 07:30",
+            "price_bgn_mwh": "352.54",
+            "total_quantity_mw": "3214.6"
+        },
+        {
+            "product": "QH 31",
+            "delivery_period": "07:30 - 07:45",
+            "price_bgn_mwh": "393.30",
+            "total_quantity_mw": "3213.1"
+        },
+        {
+            "product": "QH 32",
+            "delivery_period": "07:45 - 08:00",
+            "price_bgn_mwh": "446.09",
+            "total_quantity_mw": "3186.0"
+        },
+        {
+            "product": "QH 33",
+            "delivery_period": "08:00 - 08:15",
+            "price_bgn_mwh": "410.90",
+            "total_quantity_mw": "3511.7"
+        },
+        {
+            "product": "QH 34",
+            "delivery_period": "08:15 - 08:30",
+            "price_bgn_mwh": "425.18",
+            "total_quantity_mw": "3458.4"
+        },
+        {
+            "product": "QH 35",
+            "delivery_period": "08:30 - 08:45",
+            "price_bgn_mwh": "513.41",
+            "total_quantity_mw": "3476.6"
+        },
+        {
+            "product": "QH 36",
+            "delivery_period": "08:45 - 09:00",
+            "price_bgn_mwh": "457.02",
+            "total_quantity_mw": "3419.8"
+        },
+        {
+            "product": "QH 37",
+            "delivery_period": "09:00 - 09:15",
+            "price_bgn_mwh": "469.38",
+            "total_quantity_mw": "3436.4"
+        },
+        {
+            "product": "QH 38",
+            "delivery_period": "09:15 - 09:30",
+            "price_bgn_mwh": "385.45",
+            "total_quantity_mw": "3412.8"
+        },
+        {
+            "product": "QH 39",
+            "delivery_period": "09:30 - 09:45",
+            "price_bgn_mwh": "384.81",
+            "total_quantity_mw": "3510.4"
+        },
+        {
+            "product": "QH 40",
+            "delivery_period": "09:45 - 10:00",
+            "price_bgn_mwh": "298.24",
+            "total_quantity_mw": "3533.7"
+        },
+        {
+            "product": "QH 41",
+            "delivery_period": "10:00 - 10:15",
+            "price_bgn_mwh": "236.97",
+            "total_quantity_mw": "3391.3"
+        },
+        {
+            "product": "QH 42",
+            "delivery_period": "10:15 - 10:30",
+            "price_bgn_mwh": "380.39",
+            "total_quantity_mw": "3554.6"
+        },
+        {
+            "product": "QH 43",
+            "delivery_period": "10:30 - 10:45",
+            "price_bgn_mwh": "342.13",
+            "total_quantity_mw": "3549.9"
+        },
+        {
+            "product": "QH 44",
+            "delivery_period": "10:45 - 11:00",
+            "price_bgn_mwh": "297.78",
+            "total_quantity_mw": "3514.6"
+        },
+        {
+            "product": "QH 45",
+            "delivery_period": "11:00 - 11:15",
+            "price_bgn_mwh": "353.20",
+            "total_quantity_mw": "3699.5"
+        },
+        {
+            "product": "QH 46",
+            "delivery_period": "11:15 - 11:30",
+            "price_bgn_mwh": "335.95",
+            "total_quantity_mw": "3627.5"
+        },
+        {
+            "product": "QH 47",
+            "delivery_period": "11:30 - 11:45",
+            "price_bgn_mwh": "325.41",
+            "total_quantity_mw": "3639.0"
+        },
+        {
+            "product": "QH 48",
+            "delivery_period": "11:45 - 12:00",
+            "price_bgn_mwh": "318.68",
+            "total_quantity_mw": "3656.8"
+        },
+        {
+            "product": "QH 49",
+            "delivery_period": "12:00 - 12:15",
+            "price_bgn_mwh": "322.99",
+            "total_quantity_mw": "3583.5"
+        },
+        {
+            "product": "QH 50",
+            "delivery_period": "12:15 - 12:30",
+            "price_bgn_mwh": "311.97",
+            "total_quantity_mw": "3614.4"
+        },
+        {
+            "product": "QH 51",
+            "delivery_period": "12:30 - 12:45",
+            "price_bgn_mwh": "322.09",
+            "total_quantity_mw": "3624.4"
+        },
+        {
+            "product": "QH 52",
+            "delivery_period": "12:45 - 13:00",
+            "price_bgn_mwh": "322.46",
+            "total_quantity_mw": "3487.1"
+        },
+        {
+            "product": "QH 53",
+            "delivery_period": "13:00 - 13:15",
+            "price_bgn_mwh": "325.12",
+            "total_quantity_mw": "3381.8"
+        },
+        {
+            "product": "QH 54",
+            "delivery_period": "13:15 - 13:30",
+            "price_bgn_mwh": "340.45",
+            "total_quantity_mw": "3406.7"
+        },
+        {
+            "product": "QH 55",
+            "delivery_period": "13:30 - 13:45",
+            "price_bgn_mwh": "337.99",
+            "total_quantity_mw": "3343.5"
+        },
+        {
+            "product": "QH 56",
+            "delivery_period": "13:45 - 14:00",
+            "price_bgn_mwh": "318.15",
+            "total_quantity_mw": "3373.3"
+        },
+        {
+            "product": "QH 57",
+            "delivery_period": "14:00 - 14:15",
+            "price_bgn_mwh": "314.42",
+            "total_quantity_mw": "3234.2"
+        },
+        {
+            "product": "QH 58",
+            "delivery_period": "14:15 - 14:30",
+            "price_bgn_mwh": "333.25",
+            "total_quantity_mw": "3295.2"
+        },
+        {
+            "product": "QH 59",
+            "delivery_period": "14:30 - 14:45",
+            "price_bgn_mwh": "382.11",
+            "total_quantity_mw": "3234.4"
+        },
+        {
+            "product": "QH 60",
+            "delivery_period": "14:45 - 15:00",
+            "price_bgn_mwh": "403.98",
+            "total_quantity_mw": "3271.8"
+        },
+        {
+            "product": "QH 61",
+            "delivery_period": "15:00 - 15:15",
+            "price_bgn_mwh": "329.19",
+            "total_quantity_mw": "4004.3"
+        },
+        {
+            "product": "QH 62",
+            "delivery_period": "15:15 - 15:30",
+            "price_bgn_mwh": "388.51",
+            "total_quantity_mw": "3947.9"
+        },
+        {
+            "product": "QH 63",
+            "delivery_period": "15:30 - 15:45",
+            "price_bgn_mwh": "459.05",
+            "total_quantity_mw": "3877.9"
+        },
+        {
+            "product": "QH 64",
+            "delivery_period": "15:45 - 16:00",
+            "price_bgn_mwh": "559.39",
+            "total_quantity_mw": "3953.1"
+        },
+        {
+            "product": "QH 65",
+            "delivery_period": "16:00 - 16:15",
+            "price_bgn_mwh": "411.94",
+            "total_quantity_mw": "3850.1"
+        },
+        {
+            "product": "QH 66",
+            "delivery_period": "16:15 - 16:30",
+            "price_bgn_mwh": "531.58",
+            "total_quantity_mw": "3922.3"
+        },
+        {
+            "product": "QH 67",
+            "delivery_period": "16:30 - 16:45",
+            "price_bgn_mwh": "600.95",
+            "total_quantity_mw": "3926.6"
+        },
+        {
+            "product": "QH 68",
+            "delivery_period": "16:45 - 17:00",
+            "price_bgn_mwh": "709.50",
+            "total_quantity_mw": "3888.1"
+        },
+        {
+            "product": "QH 69",
+            "delivery_period": "17:00 - 17:15",
+            "price_bgn_mwh": "553.25",
+            "total_quantity_mw": "3631.6"
+        },
+        {
+            "product": "QH 70",
+            "delivery_period": "17:15 - 17:30",
+            "price_bgn_mwh": "567.27",
+            "total_quantity_mw": "3628.5"
+        },
+        {
+            "product": "QH 71",
+            "delivery_period": "17:30 - 17:45",
+            "price_bgn_mwh": "569.66",
+            "total_quantity_mw": "3589.5"
+        },
+        {
+            "product": "QH 72",
+            "delivery_period": "17:45 - 18:00",
+            "price_bgn_mwh": "565.43",
+            "total_quantity_mw": "3515.5"
+        },
+        {
+            "product": "QH 73",
+            "delivery_period": "18:00 - 18:15",
+            "price_bgn_mwh": "513.37",
+            "total_quantity_mw": "3486.3"
+        },
+        {
+            "product": "QH 74",
+            "delivery_period": "18:15 - 18:30",
+            "price_bgn_mwh": "414.54",
+            "total_quantity_mw": "3411.9"
+        },
+        {
+            "product": "QH 75",
+            "delivery_period": "18:30 - 18:45",
+            "price_bgn_mwh": "439.24",
+            "total_quantity_mw": "3475.8"
+        },
+        {
+            "product": "QH 76",
+            "delivery_period": "18:45 - 19:00",
+            "price_bgn_mwh": "406.15",
+            "total_quantity_mw": "3410.0"
+        },
+        {
+            "product": "QH 77",
+            "delivery_period": "19:00 - 19:15",
+            "price_bgn_mwh": "428.84",
+            "total_quantity_mw": "3280.2"
+        },
+        {
+            "product": "QH 78",
+            "delivery_period": "19:15 - 19:30",
+            "price_bgn_mwh": "371.61",
+            "total_quantity_mw": "3235.7"
+        },
+        {
+            "product": "QH 79",
+            "delivery_period": "19:30 - 19:45",
+            "price_bgn_mwh": "330.38",
+            "total_quantity_mw": "3234.4"
+        },
+        {
+            "product": "QH 80",
+            "delivery_period": "19:45 - 20:00",
+            "price_bgn_mwh": "301.92",
+            "total_quantity_mw": "3233.0"
+        },
+        {
+            "product": "QH 81",
+            "delivery_period": "20:00 - 20:15",
+            "price_bgn_mwh": "340.33",
+            "total_quantity_mw": "3203.2"
+        },
+        {
+            "product": "QH 82",
+            "delivery_period": "20:15 - 20:30",
+            "price_bgn_mwh": "291.97",
+            "total_quantity_mw": "3008.9"
+        },
+        {
+            "product": "QH 83",
+            "delivery_period": "20:30 - 20:45",
+            "price_bgn_mwh": "251.21",
+            "total_quantity_mw": "2994.1"
+        },
+        {
+            "product": "QH 84",
+            "delivery_period": "20:45 - 21:00",
+            "price_bgn_mwh": "217.06",
+            "total_quantity_mw": "2981.5"
+        },
+        {
+            "product": "QH 85",
+            "delivery_period": "21:00 - 21:15",
+            "price_bgn_mwh": "274.15",
+            "total_quantity_mw": "3028.9"
+        },
+        {
+            "product": "QH 86",
+            "delivery_period": "21:15 - 21:30",
+            "price_bgn_mwh": "242.19",
+            "total_quantity_mw": "3013.1"
+        },
+        {
+            "product": "QH 87",
+            "delivery_period": "21:30 - 21:45",
+            "price_bgn_mwh": "201.35",
+            "total_quantity_mw": "3277.0"
+        },
+        {
+            "product": "QH 88",
+            "delivery_period": "21:45 - 22:00",
+            "price_bgn_mwh": "178.76",
+            "total_quantity_mw": "3256.3"
+        },
+        {
+            "product": "QH 89",
+            "delivery_period": "22:00 - 22:15",
+            "price_bgn_mwh": "232.25",
+            "total_quantity_mw": "3082.4"
+        },
+        {
+            "product": "QH 90",
+            "delivery_period": "22:15 - 22:30",
+            "price_bgn_mwh": "205.32",
+            "total_quantity_mw": "3066.2"
+        },
+        {
+            "product": "QH 91",
+            "delivery_period": "22:30 - 22:45",
+            "price_bgn_mwh": "184.38",
+            "total_quantity_mw": "3243.7"
+        },
+        {
+            "product": "QH 92",
+            "delivery_period": "22:45 - 23:00",
+            "price_bgn_mwh": "176.49",
+            "total_quantity_mw": "3227.6"
+        },
+        {
+            "product": "QH 93",
+            "delivery_period": "23:00 - 23:15",
+            "price_bgn_mwh": "196.40",
+            "total_quantity_mw": "3217.0"
+        },
+        {
+            "product": "QH 94",
+            "delivery_period": "23:15 - 23:30",
+            "price_bgn_mwh": "177.78",
+            "total_quantity_mw": "3156.6"
+        },
+        {
+            "product": "QH 95",
+            "delivery_period": "23:30 - 23:45",
+            "price_bgn_mwh": "172.23",
+            "total_quantity_mw": "3118.6"
+        },
+        {
+            "product": "QH 96",
+            "delivery_period": "23:45 - 00:00",
+            "price_bgn_mwh": "160.67",
+            "total_quantity_mw": "3157.4"
+        }
+    ]
+}
