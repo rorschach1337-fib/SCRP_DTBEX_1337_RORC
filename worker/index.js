@@ -2,7 +2,7 @@ addEventListener("fetch", event => {
   event.respondWith(handle(event.request));
 });
 
-const ALLOWED_API_KEY = "YOUR_API_KEY_HERE"; // replace or use Wrangler secrets
+const ALLOWED_API_KEY = "5f2b8c9a1d4e7f3b2a6c8d9e0f1a2b3c"; // replace or use Wrangler secrets
 
 async function handle(request) {
   const key = request.headers.get("x-api-key");
