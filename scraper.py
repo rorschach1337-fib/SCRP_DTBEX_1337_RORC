@@ -1,8 +1,10 @@
 import json
 import os
 import time
+import glob
 from playwright.sync_api import sync_playwright
 from datetime import datetime, timedelta
+
 
 MAX_RETRIES = 12        # 12 × 5 min = 60 min
 RETRY_DELAY = 300      # seconds
@@ -73,4 +75,20 @@ if __name__ == "__main__":
         json.dump(output, f, indent=4, ensure_ascii=False)
 
     print(f"Saved to {filename} and latest.json")
+
+    files = sorted(
+        f.replace("data/", "").replace(".json", "")
+        for f in glob.glob("data/????-??-??.json")
+    )
+
+    with open("data/index.json", "w", encoding="utf-8") as f:
+        json.dump(
+            {
+                "count": len(files),
+                "dates": files
+            },
+            f,
+            indent=4
+        )
+
 
