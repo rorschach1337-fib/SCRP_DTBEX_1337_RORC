@@ -18,6 +18,7 @@ jobs:
 
       - name: Install dependencies
         run: |
+          pip install requests
           pip install playwright
           playwright install chromium
           sudo apt-get update
