@@ -4,7 +4,14 @@ import time
 import glob
 from playwright.sync_api import sync_playwright
 from datetime import datetime, timedelta
+import requests
 
+def send_telegram(message):
+    token = os.getenv("TELEGRAM_TOKEN")
+    chat_id = os.getenv("TELEGRAM_CHAT_ID")
+    if token and chat_id:
+        url = f"https://api.telegram.org/bot{token}/sendMessage"
+        requests.get(url, params={"chat_id": chat_id, "text": message})
 
 MAX_RETRIES = 12        # 12 × 5 min = 60 min
 RETRY_DELAY = 300      # seconds
@@ -64,8 +71,13 @@ if __name__ == "__main__":
     date_str = target_date.strftime("%Y-%m-%d")
     ibex_date = target_date.strftime("%d.%m.%Y")
     os.makedirs("data", exist_ok=True)
-    data = scrape_with_retry(ibex_date)
 
+    try:
+        data = scrape_with_retry(ibex_date)
+    except RuntimeError as e:
+        send_telegram(f" ⚠️ IBEX scraper failed: {e} !")
+        raise
+    
     output = {date_str: data}
     filename = f"data/{date_str}.json"
     with open(filename, "w", encoding="utf-8") as f:
