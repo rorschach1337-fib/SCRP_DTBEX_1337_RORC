@@ -61,12 +61,20 @@ if __name__ == "__main__":
     target_date = datetime.now() + timedelta(days=1)
     date_str = target_date.strftime("%Y-%m-%d")
     ibex_date = target_date.strftime("%d.%m.%Y")
-
+    
     os.makedirs("data", exist_ok=True)
 
     data = scrape_with_retry(ibex_date)
 
-    with open(f"data/{date_str}.json", "w", encoding="utf-8") as f:
-        json.dump({date_str: data}, f, indent=4, ensure_ascii=False)
+    latest_path = "data/latest.json"
+    
+    output = {date_str: data}
+    filename = f"data/{date_str}.json"
 
-    print("Saved:", date_str)
+    with open(filename, "w", encoding="utf-8") as f:
+        json.dump( output, f, indent=4, ensure_ascii=False)
+
+    with open(latest_path, "w", encoding="utf-8") as f:
+        json.dump( output, f, indent = 4, ensure_anscii=False)
+        
+    print(f"Saved to {filename} and latest.json")
