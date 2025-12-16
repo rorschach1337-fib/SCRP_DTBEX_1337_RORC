@@ -74,9 +74,9 @@ if __name__ == "__main__":
 
     try:
         data = scrape_with_retry(ibex_date)
-        send_telegram(f" ✅ DATA SCRAPE from IBEX {e} SUCCESSFUL !")
+        send_telegram(f" ✅ DATA SCRAPE from IBEX {ibex_date} SUCCESSFUL !")
     except RuntimeError as e:
-        send_telegram(f" ⚠️ IBEX scraper failed: {e} !")
+        send_telegram(f" ⚠️ IBEX scraper failed: {ibex_date} !")
         raise
     
     output = {date_str: data}
