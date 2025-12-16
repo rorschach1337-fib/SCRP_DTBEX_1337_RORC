@@ -7,11 +7,14 @@ from datetime import datetime, timedelta
 import requests
 
 def send_telegram(message):
-    token = os.getenv("TELEGRAM_TOKEN")
-    chat_id = os.getenv("TELEGRAM_CHAT_ID")
-    if token and chat_id:
-        url = f"https://api.telegram.org/bot{token}/sendMessage"
-        requests.get(url, params={"chat_id": chat_id, "text": message})
+    TOKEN = "8527046835:AAEDAAIEPPx6Y1ygnjeEFUNoKFozbkIBmaY"
+    CHAT_ID = "7192379285"
+    url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
+    payload = {"chat_id": CHAT_ID, "text": message}
+    try:
+        requests.post(url, data=payload)
+    except Exception as e:
+        print("Telegram error:", e)
 
 MAX_RETRIES = 12        # 12 × 5 min = 60 min
 RETRY_DELAY = 300      # seconds
