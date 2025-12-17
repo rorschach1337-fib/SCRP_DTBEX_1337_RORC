@@ -2,7 +2,7 @@ name: IBEX Daily Scraper
 
 on:
   schedule:
-    - cron: '15 12 * * *'   # 14:15 Bulgaria (UTC+2)
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
