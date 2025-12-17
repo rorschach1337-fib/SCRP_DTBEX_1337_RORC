@@ -2,7 +2,8 @@ name: IBEX Daily Scraper
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    # За тест, стартира всяка минута. После смени на реалното време, напр. '15 12 * * *' за 14:15 Bulgaria
+    - cron: '* * * * *'
   workflow_dispatch:
 
 permissions:
@@ -12,10 +13,17 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - name: Show trigger
+      - name: Show trigger info
         run: |
           echo "Triggered by: ${{ github.event_name }}"
-          date -u
+          echo "UTC time: $(date -u)"
+          echo "Local time: $(date)"
+      
+      - name: Debug environment
+        run: |
+          whoami
+          pwd
+          ls -la
 
       - uses: actions/checkout@v4
 
