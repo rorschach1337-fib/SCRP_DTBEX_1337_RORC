@@ -1,4 +1,4 @@
-name: IBEX Daily Scraper
+name: IBEX Daily Scraper Test
 
 on:
   schedule:
