@@ -3,7 +3,7 @@ name: IBEX Daily Scraper Test
 on:
   schedule:
     # За тест, стартира всяка минута. После смени на реалното време, напр. '15 12 * * *' за 14:15 Bulgaria
-    - cron: '15 11 * * *'
+    - cron: '15 12 * * *'
   workflow_dispatch:
 
 permissions:
